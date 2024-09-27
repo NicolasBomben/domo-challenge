@@ -1,0 +1,11 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+  }
+
+.custom-text-color {
+  color: #838284;
+}
+
+.custom-primary-text{
+  color:#060607;
+}
